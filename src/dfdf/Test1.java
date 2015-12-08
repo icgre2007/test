@@ -3,7 +3,7 @@ package dfdf;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("icgre");
+		System.out.println("icgree");
 		// TODO Auto-generated method stub
 		System.out.println("icgreen");
 	}
